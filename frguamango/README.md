@@ -16,11 +16,11 @@ Antes de ejecutar el programa, asegúrese de tener instalado:
    ```
 2. Cambie al branch correspondiente a su nombre de usuario:
    ```bash
-   git checkout <nombre_de_usuario>
+   git checkout <frguamango>
    ```
 3. Navegue hasta el directorio con su nombre de usuario:
    ```bash
-   cd <nombre_de_usuario>
+   cd <frguamango>
    ```
 4. Ejecute el archivo Python:
    ```bash
